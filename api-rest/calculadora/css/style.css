@@ -1,0 +1,54 @@
+
+.cont{ 
+width: 390px;
+height: auto;
+background: #9dd2ea;
+margin-top: 100px;
+margin-left: 25%;
+
+padding: 20px 20px 9px;
+}
+
+.top{
+    	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+	/* Better text styling */
+	font: bold 14px Arial, sans-serif;
+}
+body {
+	height: 100%;
+	background: white;
+	background: radial-gradient(circle, #fff 20%, #ccc);
+	background-size: cover;
+}
+.button{
+width: 80px;
+height: 36px;
+}
+.screen{
+    height: 40px;
+    width: 243px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: red;
+    text-align: right;
+}
+.display{
+    padding-left:  90px;
+}
+
+.key{
+ width: 350px;
+height: 200px;   
+}
+.c{
+    float: left;
+}
+.session-info{
+ 
+}
+.btn-save{ 
+    padding-bottom: 10px;
+}
